@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GADIKAVYASRI
-- 👀 I’m interested in Full Stack Development
+-  I’m interested in Full Stack Development
 - 🌱 I’m currently learning Data Structures
-- Currently pursuing B.Tech in Lendi Institute of Engineering and Technology
+- I'm currently pursuing B.Tech in Lendi Institute of Engineering and Technology
